@@ -1,0 +1,13 @@
+body {
+  background: #44d1f5; /* fallback for old browsers */
+}
+
+form {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: #fff;
+  width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
